@@ -10,7 +10,7 @@ git clone https://github.com/j-szulc/trash_rm.git && \
 cargo install --path trash_rm
 ```
 
-### Usage
+## Usage
 
 ```
 trash_rm 0.1.0
