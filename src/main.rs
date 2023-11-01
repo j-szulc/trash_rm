@@ -2,7 +2,7 @@ use std::path::PathBuf;
 use structopt::StructOpt;
 use trash;
 
-/// A basic example
+/// Move files to Trash.
 #[derive(StructOpt, Debug)]
 #[structopt(name = "trash_rm")]
 struct Opt {
